@@ -1,8 +1,7 @@
 // loop-subdivision
 //
-// Author   : Mi, Liang (Arizona State University)
-// Email    : icemiliang@gmail.com
-// Date     : June 13th 2018
+// Author   : Omkar Vengurlekar (Arizona State University)
+// Email    : ovengurl@asu.edu
 
 #include <fstream>
 #include <vector>
