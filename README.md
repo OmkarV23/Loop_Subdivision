@@ -2,20 +2,20 @@
 
 ## Stanford Bunny
 <p align="center">
-  <img src="/Results/bunny_base.png" alt="Iteration 0" width="500">
+  <img src="/Results/bunny_base.png" alt="Iteration 0" width="700">
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/White_Right_Arrow.svg/120px-White_Right_Arrow.svg.png" alt="Arrow" width="50" height="50"> -->
-  <img src="/Results/bunny_lsd_1.png" alt="Iteration 1" width="500">
+  <img src="/Results/bunny_lsd_1.png" alt="Iteration 1" width="700">
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/White_Right_Arrow.svg/120px-White_Right_Arrow.svg.png" alt="Arrow" width="50" height="50"> -->
-  <img src="/Results/bunny_lsd_2.png" alt="Iteration 2" width="500">
+  <img src="/Results/bunny_lsd_2.png" alt="Iteration 2" width="700">
 </p>
 
 ## Utah Teapot
 <p align="center">
-  <img src="/Results/teapot_base04.png" alt="Iteration 0" width="500">
+  <img src="/Results/teapot_base04.png" alt="Iteration 0" width="700">
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/White_Right_Arrow.svg/120px-White_Right_Arrow.svg.png" alt="Arrow" width="50" height="50"> -->
-  <img src="/Results/teapot_lsd_1.png" alt="Iteration 1" width="500">
+  <img src="/Results/teapot_lsd_1.png" alt="Iteration 1" width="700">
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/White_Right_Arrow.svg/120px-White_Right_Arrow.svg.png" alt="Arrow" width="50" height="50"> -->
-  <img src="/Results/teapot_lsd_2.png" alt="Iteration 2" width="500">
+  <img src="/Results/teapot_lsd_2.png" alt="Iteration 2" width="700">
 </p>
 
 
