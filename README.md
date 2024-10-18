@@ -1,5 +1,7 @@
 # Loop Subdivision
 
+This project is an implementation of the Loop Subdivision algorithm for triangular meshes. The algorithm is based on the paper "Smooth Subdivision Surfaces Based on Triangles" by Charles Loop. The implementation is done in C++.
+
 ## Stanford Bunny
 <p align="center">
   <img src="/Results/bunny_base.png" alt="Iteration 0" width="700">
@@ -17,6 +19,3 @@
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/White_Right_Arrow.svg/120px-White_Right_Arrow.svg.png" alt="Arrow" width="50" height="50"> -->
   <img src="/Results/teapot_lsd_2.png" alt="Iteration 2" width="700">
 </p>
-
-
-This project is an implementation of the Loop Subdivision algorithm for triangular meshes. The algorithm is based on the paper "Smooth Subdivision Surfaces Based on Triangles" by Charles Loop. The implementation is done in C++.
