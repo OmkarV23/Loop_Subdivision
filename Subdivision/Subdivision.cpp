@@ -24,7 +24,6 @@ int main(int argc, char *argv[])
 	std::ifstream in(argv[1]);
 	of.readToSolid(&mesh, in);
 
-	/******************* Put you subdivision processing here *********************/
 	Solid newMesh;
 	int vid = 0;
 	int fid = 0;
