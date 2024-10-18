@@ -2,6 +2,13 @@
 
 This project is an implementation of the Loop Subdivision algorithm for triangular meshes. The algorithm is based on the paper "Smooth Subdivision Surfaces Based on Triangles" by Charles Loop. The implementation is done in C++.
 
+## Build
+To build the project, run the following commands:
+```bash
+cd Subdivision
+make
+```
+
 ## Stanford Bunny
 <p align="center">
   <img src="/Results/bunny_base.png" alt="Iteration 0" width="700">
