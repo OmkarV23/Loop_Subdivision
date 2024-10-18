@@ -9,6 +9,12 @@ cd Subdivision
 make
 ```
 
+## Run
+To run the project, execute the following command:
+```bash
+./Subdivision <input_file> <output_file>
+```
+
 ## Stanford Bunny
 <p align="center">
   <img src="/Results/bunny_base.png" alt="Iteration 0" width="700">
