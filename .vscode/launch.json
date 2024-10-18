@@ -1,0 +1,60 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//       {
+//         "name": "(gdb) Launch",         // Configuration name
+//         "type": "cppdbg",               // Use cppdbg for GDB
+//         "request": "launch",            // Launch or attach to the process
+//         "program": "/home/omkar/Desktop/Advanced_computer_graphics_hw/Subdivision/Subdivision/Subdivision", // Path to the compiled binary
+//         "args": ["../Data/teapot.obj", "../Data/teapot_new.obj"],       // Arguments you want to pass to the program (optional)
+//         "stopAtEntry": false,           // Set to true if you want to stop at the main function
+//         "cwd": "${workspaceFolder}",    // Current working directory
+//         "environment": [],
+//         "externalConsole": false,        // Whether to use an external console
+//         "MIMode": "gdb",                // Use GDB as the debugger
+//         "setupCommands": [
+//           {
+//             "description": "Enable pretty-printing for gdb",
+//             "text": "-enable-pretty-printing",
+//             "ignoreFailures": true
+//           }
+//         ],
+//         "preLaunchTask": "",       // Name of the build task (optional)
+//         "miDebuggerPath": "/usr/bin/gdb", // Path to GDB (you can adjust this if needed)
+//         // "logging": {
+//         //   "trace": true,
+//         //   "traceResponse": true,
+//         //   "engineLogging": true
+//         // }
+//       }
+//     ]
+//   }
+  
+
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "(gdb) Launch",
+          "type": "cppdbg",
+          "request": "launch",
+          "program": "/home/omkar/Desktop/Advanced_computer_graphics_hw/Subdivision/Subdivision/Subdivision", // Adjust the path to your executable
+          "args": ["../Data/teapot.obj", "../Data/teapot_new.obj"],
+          "stopAtEntry": false,
+          "cwd": "/home/omkar/Desktop/Advanced_computer_graphics_hw/Subdivision/",
+          "environment": [],
+          "externalConsole": false,
+          "MIMode": "gdb",
+          "miDebuggerPath": "/usr/bin/gdb",
+          "setupCommands": [
+              {
+                  "description": "Enable pretty-printing for gdb",
+                  "text": "-enable-pretty-printing",
+                  "ignoreFailures": true
+              }
+          ],
+          // "preLaunchTask": "CMake: build", // Ensure CMake build task is defined
+          "miDebuggerArgs": ""
+      }
+  ]
+}
